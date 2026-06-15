@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description"
+    content="Somos uma creche em Teresópolis com um espaço acolhedor e seguro, dedicado ao cuidado e educação de crianças em suas idades mais preciosas. Há 40 anos educando com amor e tradição. Nossa maior paixão é cuidar e zelar pelo seu bem mais precioso." />
+  <meta name="keywords" content="HTML, site, página web, desenvolvimento web" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Creche Cheiro de Neném</title>
+  <link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
+
+  <!-- CSS Geral -->
+  <link rel="stylesheet" href="../src/css/style.css" />
+
+  <!-- CSS Contato -->
+  <link rel="stylesheet" href="../src/css/contact.css" />
+
+</head>
+
+<body>
+  <header id="cabecalho">
+    <figure>
+      <a href="../index.html"><img height="300" width="300" src="../assets/img/logo.png"
+          alt="Logo Cheiro de Nenem" /></a>
+      <figcaption></figcaption>
+    </figure>
+
+    <nav class="menu">
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="./sobre.html">Sobre</a></li>
+        <li><a href="./contato.html">Contato/Endereço</a></li>
+        <li><a href="./servicos.html">Serviços</a></li>
+        <li><a href="./galeria.html">Galeria</a></li>
+      </ul>
+    </nav>
+
+    <section class="title">
+      <h1>Creche Cheiro de Neném</h1>
+    </section>
+  </header>
+
+  <main id="principal">
+    <div class="container">
+      <section class="contact">
+        <form id="contact-form" action="">
+
+          <fieldset>
+            <legend>Dados Pessoais</legend>
+            <div class="input-group">
+              <label for="name">Nome:</label>
+              <input type="text" name="name" id="name" />
+            </div>
+            <div class="input-group">
+              <label for="lastname">Sobrenome:</label>
+              <input type="text" name="lastname" id="lastname" />
+            </div>
+            <div class="input-group">
+              <label for="whatsapp">WhatsApp:</label>
+              <input type="tel" name="whatsapp" id="whatsapp" />
+            </div>
+            <div class="input-group">
+              <label for="message">Mensagem:</label>
+              <textarea name="message" id="message"></textarea>
+            </div>
+            <div class="input-group">
+              <input type="submit" value="Enviar" />
+            </div>
+          </fieldset>
+
+        </form>
+      </section>
+    </div>
+    <!-- <h2>Contato</h2>
+
+    <p>
+      WhatsApp:
+      <a href="https://w.app/wdoglz" target="_blank">
+        Fale conosco
+      </a>
+    </p>
+
+    <p>
+      e mail:
+      <a href="mailto:beatrizcaetano0203@gmail.com">
+        contato@minhaempresa.com
+      </a>
+
+    <p>Endereço: Rua Limoeiro, 123 - Teresopolis, RJ</p>
+
+    </p> -->
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Creche Cheiro de Nenem - Todos os direitos reservados.</p>
+  </footer>
+
+  <script>
+    const contactForm = document.getElementById("contact-form");
+
+    contactForm.addEventListener("submit", function (event) {
+      event.preventDefault();
+
+      const name = document.getElementById("name").value.trim();
+      const lastname = document.getElementById("lastname").value.trim();
+      const whatsapp = document.getElementById("whatsapp").value.trim();
+      const message = document.getElementById("message").value.trim();
+
+      const content = [
+        "Dados do Formulario de Contato",
+        "------------------------------",
+        "Nome: " + name,
+        "Sobrenome: " + lastname,
+        "WhatsApp: " + whatsapp,
+        "Mensagem: " + message
+      ].join("\n");
+
+      const blob = new Blob([content], { type: "text/plain;charset=utf-8" });
+      const fileUrl = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+
+      link.href = fileUrl;
+      link.download = "contato.txt";
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+
+      URL.revokeObjectURL(fileUrl);
+      contactForm.reset();
+    });
+  </script>
+
+</body>
+
+</html>

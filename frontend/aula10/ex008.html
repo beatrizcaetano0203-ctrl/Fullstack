@@ -1,0 +1,22 @@
+<Script>
+  let num1 = Number(prompt("Digite o primeiro número"));
+  let num2 = Number(prompt("Digite o segundo número"));
+  let operacao = prompt("Digite uma operação");
+  let resultado
+
+  switch (operacao) {
+    case "+":
+      resultado = num1 + num2;
+      break;
+    case "-":
+      resultado = num1 - num2;
+      break;
+    case "*":
+      resultado = num1 * num2;
+      break;
+    case "/":
+      resultado = num1 / num2;
+      break;
+  }
+  document.write("Resultado: " + resultado);
+</Script>

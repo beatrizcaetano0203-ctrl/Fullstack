@@ -1,0 +1,30 @@
+<Script>
+  const diaDaSemana = new Date().getDay();
+  console.log(diaDaSemana);
+  let mensagem;
+
+  switch (diaDaSemana) {
+    case 0:
+      mensagem = "Hoje é Domingo. Dia de descanso!"
+      break;
+    case 1:
+      mensagem = "Hoje é Segunda-feira. Dia de trabalho!"
+      break;
+    case 2:
+      mensagem = "Hoje é Terça-feira. Dia de trabalho!"
+      break;
+    case 3:
+      mensagem = "Hoje é Quarta-feira. Meio da semana!"
+      break;
+    case 4:
+      mensagem = "Hoje é Quinta-feira. Quase lá!"
+      break;
+    case 5:
+      mensagem = "Hoje é Sexta-feira. Último dia!"
+      break;
+    case 6:
+      mensagem = "Hoje é Sábado. Dia de festa!"
+      break;
+  }
+  document.write(mensagem);
+</Script>

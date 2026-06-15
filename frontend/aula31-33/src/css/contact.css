@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+section.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 20px;
+}
+
+section.contact,
+section.contact form,
+section.contact form input,
+section.contact form textarea {
+  width: 100%;
+}

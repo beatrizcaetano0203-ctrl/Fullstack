@@ -1,0 +1,24 @@
+<script>
+  // Código original comentado:
+  // let idade = Number(prompt("Qual a sua idade:"));
+  // if (idade >= 18) {
+  //   document.write("Você é maior de idade e pode dirigir");
+  // } else {
+  //   document.write("Você é menor de idade e não pode dirigir");
+  // }
+
+  // Versão melhorada com validação e múltiplas condições
+  let idade = Number(prompt("Qual a sua idade:"));
+
+  if (isNaN(idade) || idade < 0) {
+    document.write("Por favor, digite uma idade válida!");
+  } else if (idade < 16) {
+    document.write("Você é muito jovem. Não pode dirigir.");
+  } else if (idade >= 16 && idade < 18) {
+    document.write("Você pode dirigir apenas com autorização dos pais.");
+  } else if (idade >= 18 && idade < 65) {
+    document.write("Você é maior de idade e pode dirigir normalmente.");
+  } else {
+    document.write("Você pode dirigir, mas recomendamos exames médicos regulares.");
+  }
+</script>

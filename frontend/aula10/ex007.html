@@ -1,0 +1,20 @@
+<Script>
+  const letra = prompt("Escolha uma letra (M, T ou N) referente ao seu turno");
+  console.log(letra);
+  let mensagem
+
+  switch (letra) {
+    case "M":
+      mensagem = "BOM DIA!"
+      break;
+    case "T":
+      mensagem = "BOA TARDE!"
+      break;
+    case "N":
+      mensagem = "BOA NOITE!"
+      break;
+    default:
+      mensagem = "Turno inválido."
+  }
+  document.write(mensagem);
+</Script>

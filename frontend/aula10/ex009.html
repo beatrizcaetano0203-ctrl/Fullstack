@@ -1,0 +1,24 @@
+<Script>
+  const alimento = prompt("Escolha o seu alimento entre as opções: maçã, banana, laranja, cenoura, batata, carne ou frango.");
+  console.log(alimento);
+  let mensagem
+
+  switch (alimento) {
+    case "maçã":
+    case "banana":
+    case "laranja":
+      mensagem = "O alimento é uma fruta."
+      break;
+    case "cenoura":
+    case "batata":
+      mensagem = "O alimento é um legume."
+      break;
+    case "carne":
+    case "frango":
+      mensagem = "O alimento é uma proteína."
+      break;
+    default:
+      mensagem = "Categoria desconhecida."
+  }
+  document.write(mensagem);
+</Script>

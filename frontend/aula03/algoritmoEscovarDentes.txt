@@ -1,0 +1,27 @@
+Abro o armário.
+Pego a escova de dentes.
+Tiro a capinha.
+Guardo a capinha no armário.
+Pego a pasta de dente.
+Tiro a tampa.
+Apoio a tampa no armário.
+Coloco a pasta na escova.
+Pego a tampa.
+Fecho a pasta de dente.
+Coloco a pasta de dente no armário.
+Fecho o armário.
+Abro a torneira.
+Molho a escova.
+Fecho a torneira.
+Escovo os dentes.
+Lavo a escova.
+Lavo a boca.
+Pego a toalha.
+Seco a boca.
+Seco a escova.
+Guardo a toalha.
+Abro o armário.
+Pego a capinha.
+Coloco a capinha na escova.
+Guardo a escova.
+Fecho o armário.

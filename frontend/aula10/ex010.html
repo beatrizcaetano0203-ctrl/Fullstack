@@ -1,0 +1,23 @@
+<Script>
+  const animal = prompt("Escolha um animal entre as opções: gato, cachorro, papagaio, canário, cobra e jacaré.");
+  console.log(animal);
+  let mensagem
+
+  switch (animal) {
+    case "gato":
+    case "cachorro":
+      mensagem = "É um mamífero."
+      break;
+    case "papagaio":
+    case "canário":
+      mensagem = "É uma ave."
+      break;
+    case "cobra":
+    case "jacaré":
+      mensagem = "É um réptil."
+      break;
+    default:
+      mensagem = "Animal desconhecido."
+  }
+  document.write(mensagem);
+</Script>

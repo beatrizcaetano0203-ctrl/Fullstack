@@ -1,0 +1,21 @@
+<Script>
+  const letra = prompt("Escolha uma letra (A, R ou S) para escolher a sua bebida: ");
+  console.log(letra);
+  let mensagem
+
+  switch (letra) {
+    case "A":
+      mensagem = "Você escolheu água"
+      break;
+    case "R":
+      mensagem = "Você escolheu refrigerante"
+      break;
+    case "S":
+      mensagem = "Você escolheu suco"
+      break;
+    default:
+      mensagem = "Opção inválida"
+      break;
+  }
+  document.write(mensagem);
+</Script>

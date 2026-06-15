@@ -1,0 +1,33 @@
+<Script>
+  const numero = prompt("Escolha um número: ");
+  console.log(numero);
+  let mensagem
+
+  switch (numero) {
+    case "1":
+      mensagem = "Domingo"
+      break;
+    case "2":
+      mensagem = "Segunda-Feira"
+      break;
+    case "3":
+      mensagem = "Terça-Feira"
+      break;
+    case "4":
+      mensagem = "Quarta-Feira"
+      break;
+    case "5":
+      mensagem = "Quinta-Feira"
+      break;
+    case "6":
+      mensagem = "Sexta-Feira"
+      break;
+    case "7":
+      mensagem = "Sábado"
+      break;
+    default:
+      mensagem = "Dia inválido"
+      break;
+  }
+  document.write(mensagem);
+</Script>

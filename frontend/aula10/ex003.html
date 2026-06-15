@@ -1,0 +1,27 @@
+<Script>
+  const letra = prompt("Escolha uma letra (A, B, C, D ou F): ");
+  console.log(letra);
+  let mensagem
+
+  switch (letra) {
+    case "A":
+      mensagem = "Excelente"
+      break;
+    case "B":
+      mensagem = "Bom"
+      break;
+    case "C":
+      mensagem = "Regular"
+      break;
+    case "D":
+      mensagem = "Ruim"
+      break;
+    case "F":
+      mensagem = "Reprovado"
+      break;
+    default:
+      mensagem = "Conceito inválido"
+      break;
+  }
+  document.write(mensagem);
+</Script>

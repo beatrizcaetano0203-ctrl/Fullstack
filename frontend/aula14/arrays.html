@@ -1,0 +1,16 @@
+<script>
+  const brincadeiras = ["Amarelinha", "Pique-Pega", "Mãe da rua", "Beth", "Pique-Esconde", "Polícia e ladrão", "Queimado"];
+
+  document.write(`<h2> ${brincadeiras[0]} </h2>`);
+  document.write(`<h2> Quantidade de brincadeiras: ${brincadeiras.length} </h2>`);
+  document.write(`<h2> Última bricadeira: ${brincadeiras[brincadeiras.length - 1]} </h2>`);
+
+
+  // for (let i = 0; i < brincadeiras.length; i++) {
+  //   document.write(`<h3> Brincadeira ${i + 1}: ${brincadeiras[i]} </h3>`);
+  // }
+
+  for (let brincadeira of brincadeiras) {
+    document.write(`<h2> Brincadeiras: ${brincadeira} </h2>`);
+  }
+</script>

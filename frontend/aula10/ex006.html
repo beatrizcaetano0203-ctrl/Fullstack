@@ -1,0 +1,19 @@
+<Script>
+  const letra = prompt("Escolha uma letra").trim().toUperCase();
+  console.log(letra);
+  let mensagem
+
+  switch (letra) {
+    case "A":
+    case "E":
+    case "I":
+    case "O":
+    case "U":
+      mensagem = "A letra é uma vogal"
+      break;
+    default:
+      mensagem = "A letra é uma consoante"
+      break;
+  }
+  document.write(mensagem);
+</Script>
