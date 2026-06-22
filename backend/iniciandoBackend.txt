@@ -1,1 +1,1 @@
-===> Foi criado só para enviar a pasta e testando o git
+===> Foi criado só para enviar a pasta e testando o git no repositorio remoto
