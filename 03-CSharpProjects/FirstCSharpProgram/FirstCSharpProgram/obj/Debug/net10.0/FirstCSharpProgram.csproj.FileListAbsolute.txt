@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\net10.0\FirstCSharpProgram.exe
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\net10.0\FirstCSharpProgram.deps.json
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\net10.0\FirstCSharpProgram.runtimeconfig.json
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\net10.0\FirstCSharpProgram.dll
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\net10.0\FirstCSharpProgram.pdb
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.AssemblyInfo.cs
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.dll
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\refint\FirstCSharpProgram.dll
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.pdb
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\FirstCSharpProgram.genruntimeconfig.cache
+C:\Users\aluno\Documents\development\FullStackBia\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\net10.0\ref\FirstCSharpProgram.dll

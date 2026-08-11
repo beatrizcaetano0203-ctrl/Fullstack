@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\FirstCSharpProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0E4AE-FB69-4EE9-A182-3C7AB09D92B0}|FirstCSharpProgram\\FirstCSharpProgram.csproj|c:\\users\\aluno\\documents\\development\\fullstackbia\\firstcsharpprogram\\firstcsharpprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0E4AE-FB69-4EE9-A182-3C7AB09D92B0}|FirstCSharpProgram\\FirstCSharpProgram.csproj|solutionrelative:firstcsharpprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\FirstCSharpProgram\\FirstCSharpProgram\\Program.cs",
+              "RelativeDocumentMoniker": "FirstCSharpProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\FirstCSharpProgram\\FirstCSharpProgram\\Program.cs",
+              "RelativeToolTip": "FirstCSharpProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T23:42:30.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
