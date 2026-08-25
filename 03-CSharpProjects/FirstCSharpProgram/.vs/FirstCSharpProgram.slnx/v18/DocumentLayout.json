@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\FirstCSharpProgram\\",
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\03-CSharpProjects\\FirstCSharpProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8C0E4AE-FB69-4EE9-A182-3C7AB09D92B0}|FirstCSharpProgram\\FirstCSharpProgram.csproj|c:\\users\\aluno\\documents\\development\\fullstackbia\\firstcsharpprogram\\firstcsharpprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C0E4AE-FB69-4EE9-A182-3C7AB09D92B0}|FirstCSharpProgram\\FirstCSharpProgram.csproj|solutionrelative:firstcsharpprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A419C846-BF25-4878-2A2F-7B71CFE3B15C}|FirstCSharpProgram\\FirstCSharpProgram.csproj|c:\\users\\aluno\\documents\\development\\fullstackbia\\03-csharpprojects\\firstcsharpprogram\\firstcsharpprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A419C846-BF25-4878-2A2F-7B71CFE3B15C}|FirstCSharpProgram\\FirstCSharpProgram.csproj|solutionrelative:firstcsharpprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\FirstCSharpProgram\\FirstCSharpProgram\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\03-CSharpProjects\\FirstCSharpProgram\\FirstCSharpProgram\\Program.cs",
               "RelativeDocumentMoniker": "FirstCSharpProgram\\Program.cs",
-              "ToolTip": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\FirstCSharpProgram\\FirstCSharpProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\development\\FullStackBia\\03-CSharpProjects\\FirstCSharpProgram\\FirstCSharpProgram\\Program.cs",
               "RelativeToolTip": "FirstCSharpProgram\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-10T23:42:30.972Z",
               "EditorCaption": ""

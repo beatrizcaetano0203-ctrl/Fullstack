@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\bin\Debug\net10.0\palindromeChecker.exe
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\bin\Debug\net10.0\palindromeChecker.deps.json
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\bin\Debug\net10.0\palindromeChecker.runtimeconfig.json
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\bin\Debug\net10.0\palindromeChecker.dll
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\bin\Debug\net10.0\palindromeChecker.pdb
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.AssemblyInfo.cs
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.sourcelink.json
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.dll
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\refint\palindromeChecker.dll
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.pdb
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\palindromeChecker.genruntimeconfig.cache
+C:\Users\aluno\Documents\development\FullStackBia\palindromeChecker\obj\Debug\net10.0\ref\palindromeChecker.dll

@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\bin\Debug\net10.0\Calculadora.exe
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\bin\Debug\net10.0\Calculadora.deps.json
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\bin\Debug\net10.0\Calculadora.runtimeconfig.json
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\bin\Debug\net10.0\Calculadora.dll
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\bin\Debug\net10.0\Calculadora.pdb
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.AssemblyInfo.cs
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.sourcelink.json
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.dll
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\refint\Calculadora.dll
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.pdb
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\Calculadora.genruntimeconfig.cache
+C:\Users\aluno\Documents\development\FullStackBia\Calculadora\Calculadora\obj\Debug\net10.0\ref\Calculadora.dll
