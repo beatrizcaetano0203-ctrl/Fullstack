@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  
+}
+
+div {
+  background-color: #5b0097;
+  /* width: 100px;
+  height: 100px;
+  place-self: start; */
+}
+
+/* div:nth-child(8) {
+  justify-self: end; 
+  place-self: start;
+  background-color: brown;
+} */
