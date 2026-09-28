@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curso-fullstack/gitCommands.md",
+                "file": "curso-fullstack/gitCommands 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitCommands"
+              "title": "gitCommands 1"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "curso-fullstack/gitCommands.md",
+                "file": "curso-fullstack/gitCommands 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,11 +186,11 @@
   },
   "active": "a63950a5578f3fef",
   "lastOpenFiles": [
-    "curso-fullstack/gitCommands 1.md",
     "curso-fullstack/gitCommands.md",
+    "curso-fullstack/gitCommands 1.md",
     "curso-fullstack/Guia_Completo_CSS_Grid_Iniciantes.md",
-    "README.md",
     "curso-fullstack/Frontend.md",
+    "README.md",
     "curso-fullstack/Backend.md",
     "curso-fullstack/Logica.md",
     "curso-fullstack/dontpad.md",
